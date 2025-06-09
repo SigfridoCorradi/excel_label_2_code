@@ -15,3 +15,25 @@ Then, processing one cell at a time of the excel sheet, the closest semantic sim
 | Free text for label one   | unique_code_1 |
 | Free text for label two   | unique_code_2 |
 | ...   | ... |
+
+## Installation
+
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/SigfridoCorradi/excel_label_2_code
+    cd excel_label_2_code
+    ```
+
+2. **Create a virtual environment** (optional but **strongly** recommended):
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate
+    ```
+
+3. **Install dependencies**:
+
+    ```bash
+    pip3 install -r requirements.txt
+    ```
