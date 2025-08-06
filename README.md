@@ -1,5 +1,5 @@
 # Excel: human label to unique code
-The idea of this project is to be able to convert an excel sheet, drafted by a human being in the form of `label -> value', to a unique coding in the form `code -> value`.
+The idea of this project is to be able to convert an excel sheet, drafted by a human being in the form of `label -> value`, to a unique coding in the form `code -> value`.
 
 Thus the labels, which describe a certain field, must be translated into a unique code, while managing the possibility that the labels contained in the excel document will differ in syntax from the known and expected value.
 
